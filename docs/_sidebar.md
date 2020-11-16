@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Mungo](mungo.md)
+* [Recipes](/)
+  * [Mungo](mungo.md)
