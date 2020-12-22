@@ -1,7 +1,9 @@
 # Can't Taste the Beets Smoothie
 This smoothie is specifically made to help lower blood pressure.
 
-## Ingredients (listed in the order they should be placed in the pitcher)
+## Ingredients
+_Listed in the order they should be placed in the pitcher._
+
 - Dry
   - 1 tablespoon flax seed meal
   - 1 tablespoon dry hibiscus flowers
@@ -17,7 +19,7 @@ This smoothie is specifically made to help lower blood pressure.
   - 1 whole banana
   - Zest of 1/2 lemon
   - 1/2 lemon with rind cut off
-- Frozen Fruit
+- Frozen Fruitg
   - 1 cup frozen pineapple
   - 1/2 cup frozen strawberry
   - 1/2 cup frozen dark tart cherries
