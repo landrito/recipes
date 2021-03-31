@@ -19,7 +19,7 @@ _Listed in the order they should be placed in the pitcher._
   - 1 whole banana
   - Zest of 1/2 lemon
   - 1/2 lemon with rind cut off
-- Frozen Fruitg
+- Frozen Fruits
   - 1 cup frozen pineapple
   - 1/2 cup frozen strawberry
   - 1/2 cup frozen dark tart cherries
